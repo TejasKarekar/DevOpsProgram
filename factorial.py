@@ -5,3 +5,4 @@ for i in range(1, num + 1):
 
 print(f"The factorial of {num} is {fact}")
 print(f"The number of {num}")
+print(f"The number of {num}")
